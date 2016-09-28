@@ -8,7 +8,7 @@
 >Attached is the options Alessandro (from UIUC) provided. I knew you worked that area for many years, so based on your experience, which option is the most favorable in term of taking the full advantage of the capacity of your couple model (ADCIRC + SWAN + Hydrological model + HEC-RAS model)? We would love to know your thoughts/suggestions on this. And then we can make the final choice and get the interesting points from UIUC to let your model export the simulations. I also attached the sample hurricane tracks in this area.
     
 **Sample Tracks**: 
-![Tracks](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Tracks.pdf "Sample Tracks")
+![Tracks](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Tracks.pdf)
 
 **Possible locations for Shelby County**
 -----
