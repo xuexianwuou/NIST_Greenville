@@ -1,0 +1,47 @@
+Answer: 
+>The wind information needed for ADCIRC is as follows (ascii format): 
+
+-----------
+[Meteorological Forcing Data (fort.22)](http://adcirc.org/home/documentation/users-manual-v51/input-file-descriptions/single-file-meteorological-forcing-input-fort-22/)
+
+
+Notes for NWS=20 Generalized Asymmetric Holland Model (GAHM)
+
+>The Generalized Asymmetric Holland Model (GAHM) provides a set of theoretical and practical improvements over previous parametric meteorological vortex models in ADCIRC. The theory and implementation of the GAHM was initially described at the 2013 ADCIRC Users Group Meeting.
+
+- **Forecast time in hours (column 6); enter the time in hours in each record starting at 0**
+
+- **Latitude of the eye (column 7)**
+
+- **Longitude of the eye (column 8)**
+
+- Maximum sustained wind speed in knots (column 9)
+
+- Minimum sea level pressure in MB (column 10)
+
+- Wind intensity in knots of the radii defined in the record (34, 50, 64 or 100 knots) (column 12)
+
+- Radius of specified wind intensity for quadrants 1, 2, 3, 4 in NM (columns 14, 15, 16, 17); ? 0
+
+- Background pressure in MB (column 18); a standard value of 1013 can be used
+
+- Rmax as reported in the ATCF BEST TRACK file in column 20
+
+- Storm Name in Column 28 ATCF file format
+
+- Time Record number in column 29. There can be multiple lines for a given time record depending on the number of isotachs reported in the ATCF File
+
+- number of isotachs reported in the ATCF file for the corresponding Time record.
+
+- Columns 31-34 indicate the selection of radii for that particular isotach. 0 indicates do not use this radius, and 1 indicates use this radius and corresponding wind speed.
+
+- Columns 35-38 are the designated Rmax values computed for each of the quadrants selected for each particular isotach.
+
+- Column 39 is the Holland B parameter computed using the formulas outlines in the Holland paper, and implemented using the aswip program.
+
+- Column 40-43 is the quadrant-varying Holland B parameter
+
+- Column 44-47 are the quadrant-varying Vmax calculated at the top of the planetary boundary (a wind reduction factor is applied to reduce the wind speed at the boundary to the 10-m surface)
+
+----
+
