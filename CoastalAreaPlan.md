@@ -32,7 +32,7 @@ Reference-style:
 |------------------------------|
 | **All Shelby County contour on dryland** ![All Shelby County contour on dryland](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for Shelby_County/Slide2.png "All Shelby County contour on dryland")|
 | **A side of Shelby County along the river (small superimposition with the river)** ![A side of Shelby County along the river (small superimposition with the river)](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for Shelby_County/Slide3.png "A side of Shelby County along the river (small superimposition with the river)") |
-| **Memphis area close the river (large superimposition with the river)** ![Memphis area close the river](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for Shelby_County/Slide4.png "Memphis area close the river")  |
+| **Memphis area close the river (large superimposition with the river)** ![Memphis area close the river](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for-Shelby_County/Slide4.png "Memphis area close the river")  |
  
 ----
 **OU Options**
