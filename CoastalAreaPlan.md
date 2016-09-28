@@ -117,13 +117,6 @@ Notes for NWS=20 Generalized Asymmetric Holland Model (GAHM)
 - Column 44-47 are the quadrant-varying Vmax calculated at the top of the planetary boundary (a wind reduction factor is applied to reduce the wind speed at the boundary to the 10-m surface)
 
 ----
-|1) |2) |3)Date_Time|4)|5)|
-|---|---|-----------|---|---|
-
-|1)Longitude|Latitude|
-|-------:|--------:|
-|-31.4000000000 |13.8000000000|
-----
 
 |1) State Name??|2) ??|3)Date & Time|4) ?? |5) ?? |6) Forecast Time in Hours, start with 0|7) Lat |8) Lon| 9) Maximum Sustained wind speed in knots| 10) Minimum Sea Level Pressure in MB| 11) ??   |12) Wind intensity in knots of the radii defined in the record| 13)??| 14) Radius of specified wind intensity for quadrants 1 in NM| 15) Radius of specified wind intensity for quadrants 2 in NM|  16) Radius of specified wind intensity for quadrants 3 in NM|  17) Radius of specified wind intensity for quadrants 4 in NM | 18) *Background pressure in MB; a standard value of 1013 can be used* | 19) ??    | 20) Rmax as reported in the ATCF BEST TRACK file  |  21) ??    | 22) ??    | 23) ??    | 24) ??    | 25) ??    | 26) ??|  27) ??| 28) *Storm Name in Column 28 ATCF file format* | 29) Time Record number. There can be multiple lines for a given time record depending on the number of isotachs reported in the ATCF File | 30) number of isotachs reported in the ATCF file for the corresponding Time record.| 31) the selection of radii for that particular isotach. 0 indicates do not use this radius, and 1 indicates use this radius and corresponding wind speed. | 32) the selection of radii for that particular isotach. 0 indicates do not use this radius, and 1 indicates use this radius and corresponding wind speed.| 33) the selection of radii for that particular isotach. 0 indicates do not use this radius, and 1 indicates use this radius and corresponding wind speed. | 34) the selection of radii for that particular isotach. 0 indicates do not use this radius, and 1 indicates use this radius and corresponding wind speed. |  35) the designated Rmax values computed for each of the quadrants selected for each particular isotach |  36) the designated Rmax values computed for each of the quadrants selected for each particular isotach |  37) the designated Rmax values computed for each of the quadrants selected for each particular isotach |  38) the designated Rmax values computed for each of the quadrants selected for each particular isotach |  39) he Holland B parameter computed using the formulas outlines in the Holland paper, and implemented using the aswip program| 40) the quadrant-varying Holland B parameter| 41) the quadrant-varying Holland B parameter|  42) the quadrant-varying Holland B parameter| 43) the quadrant-varying Holland B parameter|  44) the quadrant-varying Vmax calculated at the top of the planetary boundary (a wind reduction factor is applied to reduce the wind speed at the boundary to the 10-m surface)| 45) the quadrant-varying Vmax calculated at the top of the planetary boundary (a wind reduction factor is applied to reduce the wind speed at the boundary to the 10-m surface)| 46) the quadrant-varying Vmax calculated at the top of the planetary boundary (a wind reduction factor is applied to reduce the wind speed at the boundary to the 10-m surface) | 47) the quadrant-varying Vmax calculated at the top of the planetary boundary (a wind reduction factor is applied to reduce the wind speed at the boundary to the 10-m surface)|
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -145,7 +138,7 @@ Notes for NWS=20 Generalized Asymmetric Holland Model (GAHM)
 _Below is the list of variables in Hurricane data with 2-hour_:
 
 |Variable Name| var | Description|
-|---|
+|---|---|---|
 |Year| yearstore| (1 x m array): This file is only present in event sets spanning multiple years. It contains the year of the first datum of each event|
 |Month| monthstore|(m x n array): The calendar month of 2‐hour points along each track.|
 |Day|daystore| (m x n array): The day of the month of 2‐hour points along each track.|
@@ -169,7 +162,7 @@ _Below is the list of variables in Hurricane data with 2-hour_:
 The file format of the variables from Hurricane will be as following (This is just an example):
 
 |3)Date & Time|6) Forecast Time in Hours, start with 0|7) Lat |8) Lon|9) Maximum Sustained wind speed in knots| 10) Minimum Sea Level Pressure in MB| 11) ??   |12) Wind intensity in knots of the radii defined in the record| 13)??| 14) Radius of specified wind intensity for quadrants 1 in NM| 15) Radius of specified wind intensity for quadrants 2 in NM|  16) Radius of specified wind intensity for quadrants 3 in NM|  17) Radius of specified wind intensity for quadrants 4 in NM |
-|---|---|
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
 |2005082318| 0| 231N|  751W|  30| 1008|   |   0| NEQ|    0|    0|    0|    0|
 
 
