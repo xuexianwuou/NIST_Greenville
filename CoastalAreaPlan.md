@@ -120,7 +120,7 @@ Notes for NWS=20 Generalized Asymmetric Holland Model (GAHM)
 |1)2|)|3)Date_Time|4)|5)|
 |---|---|---|
 
-|Longitude|Latitude|
+|1)Longitude|Latitude|
 |-------:|--------:|
 |-31.4000000000 |13.8000000000|
 ----
