@@ -8,7 +8,7 @@
 >Attached is the options Alessandro (from UIUC) provided. I knew you worked that area for many years, so based on your experience, which option is the most favorable in term of taking the full advantage of the capacity of your couple model (ADCIRC + SWAN + Hydrological model + HEC-RAS model)? We would love to know your thoughts/suggestions on this. And then we can make the final choice and get the interesting points from UIUC to let your model export the simulations. I also attached the sample hurricane tracks in this area.
     
 **Sample Tracks**: 
-![Tracks](Tracks.pdf "Sample Tracks")
+![Tracks](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Tracks.pdf "Sample Tracks")
 
 **Possible locations for Shelby County**
 -----
@@ -20,16 +20,16 @@
 -  In option 8 the part of Shelby County superimposed to the Neuse River (on the south) is almost completely a park (Meeman-Shelby Forest State Park)
 ```
 
-| **Shelby vs Pamlico River Area** ![Shelby vs Pamlico River Area](Figures/Possible_locations_for Shelby_County/Slide1.png "Shelby vs Pamlico River Area") |
+| **Shelby vs Pamlico River Area** ![Shelby vs Pamlico River Area](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for Shelby_County/Slide1.png "Shelby vs Pamlico River Area") |
 |------------------------------|
-| **All Shelby County contour on dryland** ![All Shelby County contour on dryland](Figures/Possible_locations_for Shelby_County/Slide2.png "All Shelby County contour on dryland")|
-| **A side of Shelby County along the river (small superimposition with the river)** ![A side of Shelby County along the river (small superimposition with the river)](Figures/Possible_locations_for Shelby_County/Slide3.png "A side of Shelby County along the river (small superimposition with the river)") |
-| **Memphis area close the river (large superimposition with the river)** ![Memphis area close the river](Figures/Possible_locations_for Shelby_County/Slide4.png "Memphis area close the river")  |
+| **All Shelby County contour on dryland** ![All Shelby County contour on dryland](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for Shelby_County/Slide2.png "All Shelby County contour on dryland")|
+| **A side of Shelby County along the river (small superimposition with the river)** ![A side of Shelby County along the river (small superimposition with the river)](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for Shelby_County/Slide3.png "A side of Shelby County along the river (small superimposition with the river)") |
+| **Memphis area close the river (large superimposition with the river)** ![Memphis area close the river](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Possible_locations_for Shelby_County/Slide4.png "Memphis area close the river")  |
  
 ----
 **OU Options**
 
-**Shelby real and Shrinked Polygon** Please note that the blue polygon is the real Shelby County and read polygon is the shrinked polygon ![Shelby real and Shrinked Polygon](Figures/ForShelbyCountyTo.pdf "Shelby County Real and Shrinked Polygon")
+**Shelby real and Shrinked Polygon** Please note that the blue polygon is the real Shelby County and read polygon is the shrinked polygon ![Shelby real and Shrinked Polygon](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/ForShelbyCountyTo.pdf "Shelby County Real and Shrinked Polygon")
  
  
  
