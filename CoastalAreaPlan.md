@@ -10,6 +10,14 @@
 **Sample Tracks**: 
 ![Tracks](https://github.com/xuexianwuou/NIST_Greenville/blob/master/Figures/Tracks.pdf)
 
+Inline-style: 
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
+Reference-style: 
+![alt text][logo]
+
+[logo]: https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 2"
+
 **Possible locations for Shelby County**
 -----
 
