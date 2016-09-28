@@ -117,7 +117,7 @@ Notes for NWS=20 Generalized Asymmetric Holland Model (GAHM)
 - Column 44-47 are the quadrant-varying Vmax calculated at the top of the planetary boundary (a wind reduction factor is applied to reduce the wind speed at the boundary to the 10-m surface)
 
 ----
-|1) State Name??|2) ??|3)Date & Time|4) ?? |5) ?? |
+|1)2|)|3)Date_Time|4)|5)|
 |---|---|---|
 ----
 
